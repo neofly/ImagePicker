@@ -1,0 +1,24 @@
+<resources>
+    <string name="permission_write_external_rationale">Autoriser l\'accés au stockage externe pour choisir une image</string>
+
+    <string name="ok">OK</string>
+    <string name="done">OK</string>
+    <string name="camera">Photo</string>
+    <string name="image_directory">Camera</string>
+
+    <string name="title_folder">Dossier</string>
+    <string name="title_select_image">Toucher pour choisir</string>
+    <string name="title_permission_denied">Permission refusée</string>
+
+    <string name="selected">%d selectionnés</string>
+    <string name="selected_with_limit">%1$d/%2$d selectionnés</string>
+
+    <string name="error_create_image_file">Echec de création du fichier image</string>
+    <string name="error_no_camera">Appareil photo introuvable</string>
+    <string name="error_null_cursor">Erreur!</string>
+
+    <string name="msg_empty_images">Aucune image</string>
+    <string name="msg_no_write_external_permission">Veuillez autoriser l\'accés au stockage pour choisir des images</string>
+    <string name="msg_no_camera_permission">Veuillez autoriser l\'accés à l\'appareil Photo</string>
+    <string name="msg_limit_images">Limite de selection d\'image</string>
+</resources>
